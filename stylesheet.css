@@ -1,0 +1,169 @@
+.title_section{
+    font-family: cabin;
+    font-size:25px;
+    margin-top:160px;
+    margin-left:640px;
+}
+body{
+    font-family: cabin;
+}
+@font-face{
+	font-family:Cabin;
+	src: url('Cabin-Regular.otf');
+}
+.textbox{
+    font-family: cabin;
+    font-size:16px;
+	color:#464646c4;
+	border:none;
+    margin-top:20px;
+    padding-left:10px; 
+    margin-left:90px;
+	border:1px solid none;
+	height:45px;
+	width:250px;
+	background-color:rgba(248, 248, 248, 0.83);
+	border-radius:3px;
+}
+.login_section{
+    border:1px solid none;
+    height:400px;
+    width:400px;
+    margin-left:480px;
+}
+::placeholder{
+}
+.Sign_in{
+    font-family: cabin;
+    border:none;
+    outline:none;
+    height:40px;
+    width:200px;
+    margin-top: 30px;
+    margin-left:113px;
+    border-radius:3px; 
+}
+.Sign_in:hover{
+    cursor: pointer;
+}
+.sign_up1{
+    margin-top:30px;
+    margin-left:100px;
+}
+.sign_up2{
+    color:rgb(0, 81, 255);
+    margin-left:3px;
+}
+.sign_up2:hover{
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+.title_background{
+    border: 1px solid black;
+    height: 60px;
+    width: 1364px;
+    background-color: black;
+}
+body{
+    margin:auto;
+}
+.acc_title{
+    color: white;
+    font-size: 23px;
+    margin-top: 20px;
+    margin-left: 10px;
+    float: left;
+}
+.Upload{
+    font-family:cabin;
+    font-size:21px;
+    margin-top:20px;
+    margin-left:20px;
+    float:left;
+}
+.file_select{
+    border: none;
+    outline:none;
+    margin-top:23px;
+    margin-left:20px;
+}
+#views{
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.clear{
+    clear:both;
+}
+.edit_image{
+    font-family:cabin;
+    font-size:21px;
+    margin-top:20px;
+    
+}
+.section1{
+    float:left;
+}
+.section2{
+
+}
+.button{
+    border:none;
+    outline:none;
+    background-color: #fb641b;
+    font-size: 17px;
+    color: white;
+    border: none;
+    width: 100px;
+    font-family: Cabin;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.view_section{
+    font-family:cabin;
+    font-size:21px;
+    margin-top:20px;
+    margin-left:20px;
+    float:left; 
+    border:none;
+    outline:none;
+    background-color: #fb641b;
+    font-size: 17px;
+    color: white;
+    border: none;
+    width: 100px;
+    font-family: Cabin;
+    padding-top: 10px;
+    padding-left:12px; 
+    padding-bottom: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.logout{
+    color: white;
+    font-size: 23px;
+    margin-top: 20px;
+    margin-left: 1200px;
+    cursor:pointer;
+}
+.prev22{
+	position:absolute;
+	margin-top:255px;
+	margin-left:10px;
+    cursor:pointer;
+	font-size:30px;
+	}
+.next22{
+	position:absolute;
+	margin-top:255px;
+	margin-left:1300px;
+	font-size:30px;
+	cursor:pointer;
+}
+.featured_slide{
+    margin-left:50px;
+}
