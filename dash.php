@@ -11,7 +11,7 @@
 <?php
 session_start();
 if($_SESSION['Cd'] === NULL){
-  header("location:home.html");
+  header("location:index.html");
 }
 ?>
 

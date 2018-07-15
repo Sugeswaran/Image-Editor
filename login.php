@@ -25,11 +25,11 @@ if($pswrd==$passwrd){
 }
 		
 	else{
-		header("location:Home.html");
+		header("location:index.html");
 }
 }
 else{
-	header("location:Home.html");
+	header("location:index.html");
 }
 }
 	
